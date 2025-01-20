@@ -1,4 +1,4 @@
-![logo](./assets/images/httpinfo-logo.png)
+![logo](./src/assets/images/httpinfo-logo.png)
 # Description
 `$ httpinfo` _HTTP Status Code Lookup_.
 
