@@ -11,7 +11,6 @@ export const LoadDataShort = ( code ) => {
   const code_number = String(code)
     // 
     try {
-        console.log(__dirname)
         const data = fs.readFileSync( __dirname + `/assets/local_cache_short/${code_number}-data-short.json`, "utf8" )
         const json = JSON.parse( data )
       // return the the data
