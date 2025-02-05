@@ -14,11 +14,7 @@ Instantly retrieve information on HTTP status codes, including their meaning, de
 
 # Getting Started
 ## Installation
-`httpinfo` can be installed using [npm](https://npmjs.com):
-```bash
-npm install -g @sadiqhayatuddeen/httpinfo
-```
-or by cloning the repo and installing manually: (__Recommended__)
+`httpinfo` can be installed by cloning the repo and installing manually:
 ```bash
 # cloning the repo
 git clone https://github.com/devfloww/httpinfo
@@ -58,10 +54,6 @@ httpinfo --update
 And of course, when you don't need it anymore and want to remove it, run:
 ```bash
 httpinfo --remove
-```
-or 
-```bash
-npm remove httpinfo
 ```
 > If you were not satisfied with the experience you had with this tool, please do me a favor and call my attention for improvements. This will help me a lot and I will very much appreciate that.😅
 
